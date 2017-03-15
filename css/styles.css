@@ -21,6 +21,16 @@
 
 /* resume */
 
+.bio #resume section {
+    background: coral;
+    display: flex;
+    flex: wrap row;
+}
+
+.bio #resume section {
+    flex:1;
+}
+
 
 
 
