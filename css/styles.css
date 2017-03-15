@@ -1,5 +1,50 @@
 /* Your Awesome Styling*/
 
+/* bio and resume */
+
+.bio #bio article{
+    background: red;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bio #bio section{
+    margin: 0 10px;
+    width: 50%;
+    background: red;
+}
+
+.bio section:nth-child(1){
+    width: 400px;
+}
+
+
+/* resume */
+
+
+
+
+.contact{
+    background: green;
+}
+
+/* form */
+form {
+  background: #ccc;
+  width: 400px;
+}
+
+label,
+input {
+  display: block;
+  width: auto;
+  margin: 1em;
+}
+
+input[type="submit"]{
+    border: none;
+}
+
 
 
 
